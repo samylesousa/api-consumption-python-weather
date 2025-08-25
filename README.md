@@ -64,7 +64,7 @@ As imagens abaixo apresentam o banco de dados e os gráficos que foram gerados a
 >python -m src.main --cidades "São Paulo" --dias 7 --construir-graficos
 
 
-![Banco de dados referente as informações do clima da cidade de São Paulo](examples\banco_dados_são_paulo.png)
+![Banco de dados referente as informações do clima da cidade de São Paulo](examples/banco_dados_são_paulo.png)
 
 ![Média diária da temperatura da cidade de São Paulo](examples\temperatura_diaria_são-paulo.png)
 

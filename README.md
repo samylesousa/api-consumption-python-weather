@@ -66,9 +66,9 @@ As imagens abaixo apresentam o banco de dados e os gráficos que foram gerados a
 
 ![Banco de dados referente as informações do clima da cidade de São Paulo](examples/banco_dados_são_paulo.png)
 
-![Média diária da temperatura da cidade de São Paulo](examples\temperatura_diaria_são-paulo.png)
+![Média diária da temperatura da cidade de São Paulo](examples/temperatura_diaria_são-paulo.png)
 
-![Temperatura de São Paulo ao longo do tempo](examples\temperatura_por_tempo_são-paulo.png)
+![Temperatura de São Paulo ao longo do tempo](examples/temperatura_por_tempo_são-paulo.png)
 
 ### Atualizações futuras
 O projeto está em andamento e existem algumas funcionalidades que serão adicionadas:
